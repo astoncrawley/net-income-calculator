@@ -1,7 +1,7 @@
 # 💵 Net Income Calculator
 
 ## 📌 Overview
-This project calculates net income for UK employees using publicly available data. The goal is to estimate monthly and annual take-home earnings of UK employees to determine accurate and fair pay by employers and make deductions transparent to the general public. Interactive charts and visualisations are provided to support decision-making.
+This project calculates net income for UK employees using publicly available data. The goal is to estimate monthly and annual take-home earnings of UK employees to determine accurate and fair payroll calculations by employers and make deductions transparent to the general public. Interactive charts and visualisations are provided to support decision-making.
 
 
 ## 🗂️ Project Structure
